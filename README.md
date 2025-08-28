@@ -5,7 +5,7 @@ The project focuses on analyzing the **[Energy Efficiency Data Set](https://www.
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
