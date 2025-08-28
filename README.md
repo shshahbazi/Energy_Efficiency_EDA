@@ -115,10 +115,3 @@ The **XGBoost Regressor** was implemented as the most advanced model in this pro
 - Understanding feature correlations (e.g., Relative Compactness, Overall Height) helps in improving building design for **energy efficiency optimization**.  
 
 ---
-
-## References
-- UCI Machine Learning Repository: [Energy Efficiency Data Set](https://archive.ics.uci.edu/ml/datasets/Energy+efficiency)  
-- Hastie, Tibshirani, Friedman. *The Elements of Statistical Learning*  
-- XGBoost Documentation: [https://xgboost.ai](https://xgboost.ai)  
-
----
